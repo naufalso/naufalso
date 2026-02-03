@@ -26,6 +26,7 @@ Selected featured publications. For a full list, please visit my [Google Scholar
 
 | Paper Title | Venue | Paper | Code / Project |
 | :--- | :---: | :---: | :---: |
+| **RedSage: A Cybersecurity Generalist LLM**<br>_N Suryanto, M Naseer, P Li, ST Wasim, et al._ | **ICLR 2026** | [Link](https://openreview.net/forum?id=W4FAenIrQ2) | [GitHub](https://github.com/RISys-Lab/RedSage) |
 | **Cityscape-Adverse: Benchmarking Robustness of Semantic Segmentation...**<br>_N Suryanto, et al._ | **IEEE Access 2025** | [Link](https://ieeexplore.ieee.org/abstract/document/10870179/) | [GitHub](https://github.com/naufalso/cityscape-adverse) |
 | **Cipher: Cybersecurity Intelligent Penetration-Testing Helper**<br>_D Pratama, N Suryanto, et al._ | **Sensors 2024** | [Link](https://www.mdpi.com/1424-8220/24/21/6878) | - |
 | **Adversarial Manhole: Challenging Monocular Depth Estimation...**<br>_N Suryanto, et al._ | **WISA 2024** | [Link](https://link.springer.com/chapter/10.1007/978-981-96-1624-4_23) | [GitHub](https://github.com/naufalso/adversarial-manhole) |
