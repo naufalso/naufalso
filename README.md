@@ -26,6 +26,7 @@ Selected featured publications. For a full list, please visit my [Google Scholar
 
 | Paper Title | Venue | Paper | Code / Project |
 | :--- | :---: | :---: | :---: |
+| **SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs**<br>_M Alansari\*, N Suryanto\*, D Velayudhan, et al._ | **CVPR 2026** | [Link](https://arxiv.org/abs/2603.12382) | [Project Page](https://risys-lab.github.io/SPARROW) / [GitHub](https://github.com/RISys-Lab/SPARROW) |
 | **RedSage: A Cybersecurity Generalist LLM**<br>_N Suryanto, M Naseer, P Li, et al._ | **ICLR 2026** | [Link](https://openreview.net/forum?id=W4FAenIrQ2) | [GitHub](https://github.com/RISys-Lab/RedSage) |
 | **Cityscape-Adverse: Benchmarking Robustness of Semantic Segmentation...**<br>_N Suryanto, et al._ | **IEEE Access 2025** | [Link](https://ieeexplore.ieee.org/abstract/document/10870179/) | [GitHub](https://github.com/naufalso/cityscape-adverse) |
 | **CIPHER: Cybersecurity Intelligent Penetration-Testing Helper**<br>_D Pratama, N Suryanto, et al._ | **Sensors 2024** | [Link](https://www.mdpi.com/1424-8220/24/21/6878) | [GitHub](https://github.com/ibndias/CIPHER) |
